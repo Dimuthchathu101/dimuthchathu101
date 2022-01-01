@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dimuth C Bandara
+- 👀 I’m interested in Mobile Applicaton Development, Software Quality Assurance
+- 🌱 I’m currently learning Jenkins,Selenium,Appium,Jira,React,Angular and Flutter
+- 💞️ I’m looking to collaborate on Software Quality Assurance
+- 📫 How to reach me email - dimuthchathu101@gmail.com
