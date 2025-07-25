@@ -8,7 +8,7 @@
 
 ## 🌟 **About Me**
 
-Hi there! I'm **Dimuth C Bandara**, an aspiring professional with a passion for **Software Quality Assurance**, **Business Management**, and **Human Resource Management**. Here's a little about my journey so far:
+Hi there! I'm **Dimuth C Bandara**, a passionate professional bridging **Software Quality Assurance**, **Business Management**, and **Human Resource Management**. I create robust testing solutions and efficient automation frameworks.
 
 ---
 
@@ -27,51 +27,52 @@ Hi there! I'm **Dimuth C Bandara**, an aspiring professional with a passion for 
 
 ---
 
-## 💼 **What I Do**
+## 💼 **Technical Expertise**
 
-- 💻 **Software Quality Assurance (SQA)**:  
-  I excel in automation testing with tools like **TestNG**, **Postman**, and advanced reporting frameworks to ensure robust software delivery.
+### **QA Automation & Testing**
+- 🛠️ **Frameworks**: TestNG, Playwright, Gatling, JMeter
+- �‍ **Tools**: Selenium, Appium, Postman, Cypress
+- 📊 **Reporting**: ExtentReports, Allure
 
-- 🤝 **Human Resource Management (HRM)**:  
-  With a strong foundation in psychology and business management, I enjoy contributing to projects that blend technology with human capital strategies.
+### **Development Skills**
+- 📱 **Mobile**: Flutter, Android
+- 🌐 **Web**: JavaScript, HTML, CSS
+- 🗄️ **Database**: MySQL, MongoDB, Firebase
+- ☁️ **Cloud & DevOps**: AWS, Docker, Jenkins, GitHub Actions
 
----
-
-## 💡 **Skills**
-### **Technical Skills**
-- 📱 **Mobile Development**: Swift, UIKit, Flutter, Android  
-- 💻 **Software Engineering**: Node.js, Firebase, Appium  
-- 🖥️ **Frontend & Backend**: SQL, MongoDB, MySQL, API integration  
-
-### **QA Automation**
-- 🛠️ **Testing Tools**: Selenium, Cypress, Appium, Playwright Automation  
-- 📊 **Platforms**: TestNG, Postman  
-
-🔗 [View my detailed skills on LinkedIn](https://www.linkedin.com/in/dimuth-c-bandara-510015266/details/skills/)  
-
-### **Frameworks and Tools Used**
-- 🎭 **Playwright Automation**  
-- 🚀 **Gatling (Java) with Jenkins and GitHub Actions**  
-- ❄️ **Airflow with Snowflake and DBT**  
-- 🧪 **JMeter with Jenkins & Docker EFS**  
-- 🐍 **Flask with MySQL (DBeaver) and HTML**  
-- ☁️ **AWS, Dynatrace, Fiddler, and Kibana Monitoring**  
-- 📊 **Power BI with SharePoint**
+### **Business & Analytics**
+- 📈 **BI Tools**: Power BI, Tableau
+- 📊 **Data Pipelines**: Airflow, DBT, Snowflake
 
 ---
 
-## 🔥 **My Projects**
+## 🔥 **Featured Projects**
 
-### 🚀 **Automation Testing Projects**
-- **[Keisuke Delivery - Web RWP](https://github.com/dimuthcbandara97/KeisukeDelivery_WEB_RWP)**  
-  A **TestNG automation testing project** with integrated reporting features.
+### 🧪 **Testing Frameworks**
+- **[UI/UX Testing](https://github.com/Dimuthchathu101/UI_UX_Testing)**  
+  Advanced user interface and experience validation techniques
+- **[TC Automation](https://github.com/Dimuthchathu101/TCAutomation)**  
+  Comprehensive test case automation framework
+- **[Self-Healing Testing](https://github.com/Dimuthchathu101/Self-Healing-Testing)**  
+  AI-powered resilient test automation system
+- **[Static Code Analysis](https://github.com/Dimuthchathu101/Static-Code-Analysis-tool)**  
+  Automated code quality assessment tool
+- **[CTS Validation](https://github.com/Dimuthchathu101/CTSValidation)**  
+  Compatibility Test Suite validation framework
+- **[Accessibility Testing](https://github.com/Dimuthchathu101/AccessbilityAdvanced)**  
+  WCAG compliance verification tools
+- **[Cybersecurity Testing](https://github.com/Dimuthchathu101/Cybersecurity-Testing)**  
+  Security vulnerability assessment suite
 
-- **[Keisuke RAT API](https://github.com/dimuthcbandara97/RWP_Keisuke_RAT_API)**  
-  A **RAT automation testing project** with advanced reporting capabilities.
+### 💳 **Financial Systems**
+- **[BNPL Model Validation](https://github.com/Dimuthchathu101/BNPL-Model-Validation)**  
+  Buy Now Pay Later financial model testing
+- **[Odoo Playwright Tests](https://github.com/Dimuthchathu101/odoo-playwright-tests)**  
+  ERP system automation with Playwright
 
-### 📱 **Mobile Application Development**
-- **[iOS Gym Application](https://github.com/dimuthcbandara97/TestingDashboard)**  
-  Built with **Swift UIKit** and integrated **API functionalities**.
+### 🏥 **Healthcare Systems**
+- **[Medical Coding](https://github.com/Dimuthchathu101/Medical-Coding)**  
+  Healthcare classification system implementation
 
 ---
 
@@ -79,30 +80,28 @@ Hi there! I'm **Dimuth C Bandara**, an aspiring professional with a passion for 
 
 ## 📊 **GitHub Stats**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dimuthcbandara97&theme=radical&hide_border=true&fire=FF2E2E)
-![Dimuth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimuthcbandara97&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthcbandara97&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dimuthchathu101&theme=radical&hide_border=true&fire=FF2E2E)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimuthchathu101&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimuthchathu101&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📂 **Pinned Repositories**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimuthcbandara97&repo=KeisukeDelivery_WEB_RWP&theme=radical)](https://github.com/dimuthcbandara97/KeisukeDelivery_WEB_RWP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimuthcbandara97&repo=RWP_Keisuke_RAT_API&theme=radical)](https://github.com/dimuthcbandara97/RWP_Keisuke_RAT_API)
+[![Self-Healing Testing](https://github-readme-stats.vercel.app/api/pin/?username=Dimuthchathu101&repo=Self-Healing-Testing&theme=radical)](https://github.com/Dimuthchathu101/Self-Healing-Testing)
+[![Odoo Playwright Tests](https://github-readme-stats.vercel.app/api/pin/?username=Dimuthchathu101&repo=odoo-playwright-tests&theme=radical)](https://github.com/Dimuthchathu101/odoo-playwright-tests)
 
 </div>
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 **Connect With Me**
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dimuthcbandara97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimuthcbandara97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dimuth-c-bandara-510015266)
-[![Phone](https://img.shields.io/badge/Phone-%2B94771112783-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:+94771112783)
-
-🔗 [Certifications](https://www.linkedin.com/in/dimuth-c-bandara-510015266/details/certifications/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimuth-c-bandara-510015266)
+[![Phone](https://img.shields.io/badge/Phone-%2B94771112783-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94771112783)
 
 </div>
 
