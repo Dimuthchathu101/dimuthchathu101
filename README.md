@@ -16,7 +16,7 @@ Hi there! I'm **Dimuth C Bandara**, a passionate professional bridging **Softwar
 
 ### **Current Studies**
 - **BSc(Hons) in Computing**  
-  _Coventry University (Ongoing)_  
+  _Coventry University (First Class)_  
 
 ### **Certifications and Diplomas**
 - **Higher National Diploma in Software Engineering** (Distinction)  
